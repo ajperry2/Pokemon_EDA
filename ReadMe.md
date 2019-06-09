@@ -3,6 +3,8 @@
 
 In this notebook I am making visualization of pokemon using SQL queries to pull data from an RDS database and then graphing them to give insights on different questions.
 
+If you would like to do your own analysis, you will need to set up your own SQL database and add the information for each pokemon to a table. After you do though you can alter my notebook [here](Pocket Monsters EDA.ipynb)
+
 I was very in touch with pokemon when it first came out, but I would like to refresh my knowledge.
 
 -----
